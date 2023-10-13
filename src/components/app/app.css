@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    
+}
+ 
+#root{
+    background: url("../../img/360_F_579485255_hzHox0stuQmBx5QViwnQqQjk7RD2AJza.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.app{
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+
+
