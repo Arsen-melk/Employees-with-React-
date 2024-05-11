@@ -62,4 +62,11 @@
 .list-group-item.increase .btn-star {
     color: #aeaeae;
 }
-  
+
+@media screen and (max-width: 770px) {
+    .list-group-item{
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+    }
+  }  
