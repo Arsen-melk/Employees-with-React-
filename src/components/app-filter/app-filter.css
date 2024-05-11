@@ -10,3 +10,10 @@
     border: 1px solid #fff;
     
 }
+
+@media screen and (max-width: 770px) {
+    .app-filter,.btn-group {
+      display: flex;
+      flex-direction: column;
+    }
+  }
