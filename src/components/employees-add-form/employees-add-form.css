@@ -16,3 +16,12 @@
     width: 350px;
     margin-right: 20px;
 }
+
+@media screen and (max-width: 770px) {
+    .app-add-form form{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        
+    }
+  }
